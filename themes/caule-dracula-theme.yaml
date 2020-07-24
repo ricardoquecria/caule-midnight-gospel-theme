@@ -46,7 +46,7 @@ Caule Dracula:
   bg1: "#282a36"
   bg2: "#21212c"
   # Main colors
-  primary-color: var(--pink)
+  primary-color: "#fb7ac6"
   light-primary-color: var(--purple)
   graph-color: var(--primary-color)
   primary-background-color: var(--bg2)
