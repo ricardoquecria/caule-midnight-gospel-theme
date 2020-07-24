@@ -51,7 +51,7 @@ Caule Dracula:
   graph-color: var(--primary-color)
   primary-background-color: var(--bg2)
   secondary-background-color: "#0000FF"
-  divider-color: var(--bg1)
+  divider-color: var(--bg1) 
   disabled-color: var(--gray)
   # Text colors
   primary-text-color: "#dde7ec"
