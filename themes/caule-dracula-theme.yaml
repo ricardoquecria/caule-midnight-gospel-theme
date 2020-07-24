@@ -54,10 +54,10 @@ Caule Dracula:
   divider-color: "#2c2c2c"
   disabled-color: var(--gray)
   # Text colors
-  primary-text-color: "#e5e5e5"
-  secondary-text-color: var(--disabled-color)
-  text-primary-color: "#E5E5E5"
-  disabled-text-color: var(--light-primary-color)
+  primary-text-color: "#FFFFFF"
+  secondary-text-color: "#FF0000"
+  text-primary-color: var(--yellow)
+  disabled-text-color: "#FF00FF"
   # Sidebar colors
   sidebar-icon-color: var(--primary-color)
   sidebar-text-color: var(--primary-text-color)
