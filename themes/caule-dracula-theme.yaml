@@ -53,7 +53,7 @@ Caule Dracula:
   secondary-background-color: "#0000FF"
   divider-color: var(--bg1) 
   disabled-color: var(--gray)
-  # Text colors
+  # Text colors 
   primary-text-color: "#dde7ec"
   secondary-text-color: var(--disabled-color)  #altera tbm as linhas de input
   text-primary-color: "#FFFFFF"
