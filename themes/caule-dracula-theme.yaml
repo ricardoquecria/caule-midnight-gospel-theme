@@ -50,14 +50,14 @@ Caule Dracula:
   light-primary-color: var(--cyan)
   graph-color: var(--primary-color)
   primary-background-color: var(--bg2)
-  secondary-background-color: var(--primary-background-color)
-  divider-color: "#2c2c2c"
+  secondary-background-color: "#0000FF"
+  divider-color: "#Fa4"
   disabled-color: var(--gray)
   # Text colors
   primary-text-color: "#0000FF"
-  secondary-text-color: "#FF0000"
+  secondary-text-color: "#FF0000" #altera tbm as linhas de input
   text-primary-color: var(--yellow)
-  disabled-text-color: "#FF00FF"
+  disabled-text-color: "#FF00FF" #altera linha do volume
   # Sidebar colors
   sidebar-icon-color: var(--primary-color)
   sidebar-text-color: var(--primary-text-color)
