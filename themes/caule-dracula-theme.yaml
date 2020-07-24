@@ -37,7 +37,7 @@ Caule Dracula:
 
   # Change the value below 8px to 0px to remove the rounded corners
   ha-card-border-radius: 8px
-  # Color variables
+  # Color variables 
   cyan: "#8be9fe"
   yellow: "#f1fa8c"
   pink: "#fb7ac6"
