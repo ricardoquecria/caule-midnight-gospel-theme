@@ -6,22 +6,22 @@
 #     ##        #########  ##     ##  ##        ##       
 #     ##    ##  ##     ##  ##     ##  ##        ##       
 #      ######   ##     ##   #######   ########  ######## 
-#                                             
-#     ::::    ::::   :::::::::::  :::::::::   ::::    :::  :::::::::::   ::::::::   :::    :::  ::::::::::: 
-#     +:+:+: :+:+:+      :+:      :+:    :+:  :+:+:   :+:      :+:      :+:    :+:  :+:    :+:      :+:     
-#     +:+ +:+:+ +:+      +:+      +:+    +:+  :+:+:+  +:+      +:+      +:+         +:+    +:+      +:+     
-#     +#+  +:+  +#+      +#+      +#+    +:+  +#+ +:+ +#+      +#+      :#:         +#++:++#++      +#+     
-#     +#+       +#+      +#+      +#+    +#+  +#+  +#+#+#      +#+      +#+   +#+#  +#+    +#+      +#+     
-#     #+#       #+#      #+#      #+#    #+#  #+#   #+#+#      #+#      #+#    #+#  #+#    #+#      #+#     
-#     ###       ###  ###########  #########   ###    ####  ###########   ########   ###    ###      ###     
-#
-#      ::::::::    ::::::::    ::::::::   :::::::::   ::::::::::  :::        
-#     :+:    :+:  :+:    :+:  :+:    :+:  :+:    :+:  :+:         :+:        
-#     +:+         +:+    +:+  +:+         +:+    +:+  +:+         +:+        
-#     :#:         +#+    +:+  +#++:++#++  +#++:++#+   +#++:++#    +#+        
-#     +#+   +#+#  +#+    +#+         +#+  +#+         +#+         +#+        
-#     #+#    #+#  #+#    #+#  #+#    #+#  #+#         #+#         #+#        
-#      ########    ########    ########   ###         ##########  ########## 
+#      _______ _________ ______   _       _________ _______          _________
+#     (       )\__   __/(  __  \ ( (    /|\__   __/(  ____ \|\     /|\__   __/
+#     | () () |   ) (   | (  \  )|  \  ( |   ) (   | (    \/| )   ( |   ) (   
+#     | || || |   | |   | |   ) ||   \ | |   | |   | |      | (___) |   | |   
+#     | |(_)| |   | |   | |   | || (\ \) |   | |   | | ____ |  ___  |   | |   
+#     | |   | |   | |   | |   ) || | \   |   | |   | | \_  )| (   ) |   | |   
+#     | )   ( |___) (___| (__/  )| )  \  |___) (___| (___) || )   ( |   | |   
+#     |/     \|\_______/(______/ |/    )_)\_______/(_______)|/     \|   )_(   
+#      _______  _______  _______  _______  _______  _       
+#     (  ____ \(  ___  )(  ____ \(  ____ )(  ____ \( \      
+#     | (    \/| (   ) || (    \/| (    )|| (    \/| (      
+#     | |      | |   | || (_____ | (____)|| (__    | |      
+#     | | ____ | |   | |(_____  )|  _____)|  __)   | |      
+#     | | \_  )| |   | |      ) || (      | (      | |      
+#     | (___) || (___) |/\____) || )      | (____/\| (____/\
+#     (_______)(_______)\_______)|/       (_______/(_______/
 #
 #     ########  ##     ##  ########  ##     ##  ######## 
 #        ##     ##     ##  ##        ###   ###  ##       
@@ -45,7 +45,6 @@
 #     Make good use of the themes =)
 #
 #
-                                                                    
 
 Caule Midnight Gospel:
 
@@ -89,7 +88,7 @@ Caule Midnight Gospel:
 
   # Dev text box
   paper-dialog-background-color: var(--bg1)
-  paper-dialog-color: var(--purple)
+  paper-dialog-color: var(--yellow)
 
   # Error color
   error-color: var(--red)
@@ -200,7 +199,7 @@ Caule Midnight Gospel Glass:
   # Change the value below 8px to 0px to remove the rounded corners
   ha-card-border-radius: "10px"
   ha-card-box-shadow: '0px 0px 0px 0px rgba(20, 20, 30, 0.4)'
-  lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/caule-midnight-gospel-theme/bg1.jpg") fixed'
+  lovelace-background: 'center / cover url("/hacsfiles/themes/caule-midnight-gospel-theme/bg1.jpg") fixed'
 
   # Main colors
   primary-color: var(--pink) 
@@ -218,13 +217,13 @@ Caule Midnight Gospel Glass:
   app-header-text-color: var(--light)
   ch-active-tab-color: var(--light)
   ch-all-tabs-color: var(--cyan)
-  ch-background: "var(--background-color)"
+  ch-background: 'center / cover no-repeat url("/hacsfiles/themes/caule-midnight-gospel-theme/bg2.jpg") fixed'
   ch-notification-dot-color: "var(--yellow)"
   ch-tab-indicator-color: var(--yellow)
 
   # Dev text box
   paper-dialog-background-color: var(--bg1)
-  paper-dialog-color: var(--purple)
+  paper-dialog-color: var(--yellow)
 
   # Error color
   error-color: var(--red)
@@ -273,9 +272,9 @@ Caule Midnight Gospel Glass:
   label-badge-grey: var(--gray)
 
   # Cards colors
-  ha-card-background: var(--bg1)
-  paper-card-background-color: var(--ha-card-background)
-  paper-listbox-background-color: var(--primary-background-color)
+  ha-card-background: 'center / cover no-repeat url("/hacsfiles/themes/caule-midnight-gospel-theme/bg2.jpg") fixed'
+  paper-card-background-color: var(--red)
+  paper-listbox-background-color: 'center / cover no-repeat url("/hacsfiles/themes/caule-midnight-gospel-theme/bg2.jpg") fixed'
 
   # Toggle button colors
   switch-checked-color: var(--purple)
