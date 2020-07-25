@@ -65,7 +65,7 @@ Caule Midnight Gospel:
   # Change the value below 8px to 0px to remove the rounded corners
   ha-card-border-radius: "10px"
   ha-card-box-shadow: 'inset 0px 0px 0px 0px var(--divider-color)'
-  # lovelace-background: 'url("/hacsfiles/themes/caule-dracula-theme/bg.png") fixed'
+  # lovelace-background: 'url("/hacsfiles/themes/caule-midnight-gospel-theme/bg.png") fixed'
 
   # Main colors
   primary-color: var(--pink) 
@@ -157,21 +157,21 @@ Caule Midnight Gospel:
   data-table-background-color: var(--primary-background-color)
 
   #Animated icons
-  weather-icon-clear-night: url("/hacsfiles/themes/caule-dracula-theme/clear-night.svg")
-  weather-icon-cloudy: url("/hacsfiles/themes/caule-dracula-theme/cloudy.svg")
-  weather-icon-fog: url("/hacsfiles/themes/caule-dracula-theme/fog.svg")
-  weather-icon-lightning: url("/hacsfiles/themes/caule-dracula-theme/lightning.svg")
-  weather-icon-lightning-rainy: url("/hacsfiles/themes/caule-dracula-theme/lightning-rainy.svg")
-  weather-icon-partlycloudy: url("/hacsfiles/themes/caule-dracula-theme/partlycloudy.svg")
-  weather-icon-pouring: url("/hacsfiles/themes/caule-dracula-theme/pouring.svg")
-  weather-icon-rainy: url("/hacsfiles/themes/caule-dracula-theme/rainy.svg")
-  weather-icon-hail: url("/hacsfiles/themes/caule-dracula-theme/hail.svg")
-  weather-icon-snowy: url("/hacsfiles/themes/caule-dracula-theme/snowy.svg")
-  weather-icon-snowy-rainy: url("/hacsfiles/themes/caule-dracula-theme/snowy-rainy.svg")
-  weather-icon-sunny: url("/hacsfiles/themes/caule-dracula-theme/sunny.svg")
-  weather-icon-windy: url("/hacsfiles/themes/caule-dracula-theme/windy.svg")
-  weather-icon-windy-variant: url("/hacsfiles/themes/caule-dracula-theme/windy-variant.svg")
-  weather-icon-exceptional: url("/hacsfiles/themes/caule-dracula-theme/exceptional.svg")
+  weather-icon-clear-night: url("/hacsfiles/themes/caule-midnight-gospel-theme/clear-night.svg")
+  weather-icon-cloudy: url("/hacsfiles/themes/caule-midnight-gospel-theme/cloudy.svg")
+  weather-icon-fog: url("/hacsfiles/themes/caule-midnight-gospel-theme/fog.svg")
+  weather-icon-lightning: url("/hacsfiles/themes/caule-midnight-gospel-theme/lightning.svg")
+  weather-icon-lightning-rainy: url("/hacsfiles/themes/caule-midnight-gospel-theme/lightning-rainy.svg")
+  weather-icon-partlycloudy: url("/hacsfiles/themes/caule-midnight-gospel-theme/partlycloudy.svg")
+  weather-icon-pouring: url("/hacsfiles/themes/caule-midnight-gospel-theme/pouring.svg")
+  weather-icon-rainy: url("/hacsfiles/themes/caule-midnight-gospel-theme/rainy.svg")
+  weather-icon-hail: url("/hacsfiles/themes/caule-midnight-gospel-theme/hail.svg")
+  weather-icon-snowy: url("/hacsfiles/themes/caule-midnight-gospel-theme/snowy.svg")
+  weather-icon-snowy-rainy: url("/hacsfiles/themes/caule-midnight-gospel-theme/snowy-rainy.svg")
+  weather-icon-sunny: url("/hacsfiles/themes/caule-midnight-gospel-theme/sunny.svg")
+  weather-icon-windy: url("/hacsfiles/themes/caule-midnight-gospel-theme/windy.svg")
+  weather-icon-windy-variant: url("/hacsfiles/themes/caule-midnight-gospel-theme/windy-variant.svg")
+  weather-icon-exceptional: url("/hacsfiles/themes/caule-midnight-gospel-theme/exceptional.svg")
 
   # HACS
   hacs-badge-color: var(--primary-color)
@@ -200,7 +200,7 @@ Caule Midnight Gospel Glass:
   # Change the value below 8px to 0px to remove the rounded corners
   ha-card-border-radius: "10px"
   ha-card-box-shadow: '0px 0px 0px 0px rgba(20, 20, 30, 0.4)'
-  lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/caule-dracula-theme/bg1.jpg") fixed'
+  lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/caule-midnight-gospel-theme/bg1.jpg") fixed'
 
   # Main colors
   primary-color: var(--pink) 
@@ -214,11 +214,11 @@ Caule Midnight Gospel Glass:
   disabled-color: var(--gray)
 
   # Header colors
-  app-header-background-color: 'center / cover no-repeat url("/hacsfiles/themes/caule-dracula-theme/bg2.jpg") fixed'
+  app-header-background-color: 'center / cover no-repeat url("/hacsfiles/themes/caule-midnight-gospel-theme/bg2.jpg") fixed'
   app-header-text-color: var(--light)
   ch-active-tab-color: var(--light)
   ch-all-tabs-color: var(--cyan)
-  ch-background: 'center / cover no-repeat url("/hacsfiles/themes/caule-dracula-theme/bg2.jpg") fixed'
+  ch-background: 'center / cover no-repeat url("/hacsfiles/themes/caule-midnight-gospel-theme/bg2.jpg") fixed'
   ch-notification-dot-color: "var(--yellow)"
   ch-tab-indicator-color: var(--yellow)
 
@@ -264,7 +264,7 @@ Caule Midnight Gospel Glass:
   ha-paper-slider-pin-font-size: '25px'
 
   # Labels colors
-  label-badge-background-color: 'center / cover no-repeat url("/hacsfiles/themes/caule-dracula-theme/bg2.jpg") fixed'
+  label-badge-background-color: 'center / cover no-repeat url("/hacsfiles/themes/caule-midnight-gospel-theme/bg2.jpg") fixed'
   label-badge-text-color: var(--yellow)
   label-badge-blue: var(--cyan)
   label-badge-green: var(--purple)
@@ -273,9 +273,9 @@ Caule Midnight Gospel Glass:
   label-badge-grey: var(--gray)
 
   # Cards colors
-  ha-card-background: 'center / cover no-repeat url("/hacsfiles/themes/caule-dracula-theme/bg2.jpg") fixed'
+  ha-card-background: 'center / cover no-repeat url("/hacsfiles/themes/caule-midnight-gospel-theme/bg2.jpg") fixed'
   paper-card-background-color: rgba(20,20,25,0.2)
-  paper-listbox-background-color: 'center / cover no-repeat url("/hacsfiles/themes/caule-dracula-theme/bg2.jpg") fixed'
+  paper-listbox-background-color: 'center / cover no-repeat url("/hacsfiles/themes/caule-midnight-gospel-theme/bg2.jpg") fixed'
 
   # Toggle button colors
   switch-checked-color: var(--purple)
@@ -292,21 +292,21 @@ Caule Midnight Gospel Glass:
   data-table-background-color: var(--primary-background-color)
 
   #Animated icons
-  weather-icon-clear-night: url("/hacsfiles/themes/caule-dracula-theme/clear-night.svg")
-  weather-icon-cloudy: url("/hacsfiles/themes/caule-dracula-theme/cloudy.svg")
-  weather-icon-fog: url("/hacsfiles/themes/caule-dracula-theme/fog.svg")
-  weather-icon-lightning: url("/hacsfiles/themes/caule-dracula-theme/lightning.svg")
-  weather-icon-lightning-rainy: url("/hacsfiles/themes/caule-dracula-theme/lightning-rainy.svg")
-  weather-icon-partlycloudy: url("/hacsfiles/themes/caule-dracula-theme/partlycloudy.svg")
-  weather-icon-pouring: url("/hacsfiles/themes/caule-dracula-theme/pouring.svg")
-  weather-icon-rainy: url("/hacsfiles/themes/caule-dracula-theme/rainy.svg")
-  weather-icon-hail: url("/hacsfiles/themes/caule-dracula-theme/hail.svg")
-  weather-icon-snowy: url("/hacsfiles/themes/caule-dracula-theme/snowy.svg")
-  weather-icon-snowy-rainy: url("/hacsfiles/themes/caule-dracula-theme/snowy-rainy.svg")
-  weather-icon-sunny: url("/hacsfiles/themes/caule-dracula-theme/sunny.svg")
-  weather-icon-windy: url("/hacsfiles/themes/caule-dracula-theme/windy.svg")
-  weather-icon-windy-variant: url("/hacsfiles/themes/caule-dracula-theme/windy-variant.svg")
-  weather-icon-exceptional: url("/hacsfiles/themes/caule-dracula-theme/exceptional.svg")
+  weather-icon-clear-night: url("/hacsfiles/themes/caule-midnight-gospel-theme/clear-night.svg")
+  weather-icon-cloudy: url("/hacsfiles/themes/caule-midnight-gospel-theme/cloudy.svg")
+  weather-icon-fog: url("/hacsfiles/themes/caule-midnight-gospel-theme/fog.svg")
+  weather-icon-lightning: url("/hacsfiles/themes/caule-midnight-gospel-theme/lightning.svg")
+  weather-icon-lightning-rainy: url("/hacsfiles/themes/caule-midnight-gospel-theme/lightning-rainy.svg")
+  weather-icon-partlycloudy: url("/hacsfiles/themes/caule-midnight-gospel-theme/partlycloudy.svg")
+  weather-icon-pouring: url("/hacsfiles/themes/caule-midnight-gospel-theme/pouring.svg")
+  weather-icon-rainy: url("/hacsfiles/themes/caule-midnight-gospel-theme/rainy.svg")
+  weather-icon-hail: url("/hacsfiles/themes/caule-midnight-gospel-theme/hail.svg")
+  weather-icon-snowy: url("/hacsfiles/themes/caule-midnight-gospel-theme/snowy.svg")
+  weather-icon-snowy-rainy: url("/hacsfiles/themes/caule-midnight-gospel-theme/snowy-rainy.svg")
+  weather-icon-sunny: url("/hacsfiles/themes/caule-midnight-gospel-theme/sunny.svg")
+  weather-icon-windy: url("/hacsfiles/themes/caule-midnight-gospel-theme/windy.svg")
+  weather-icon-windy-variant: url("/hacsfiles/themes/caule-midnight-gospel-theme/windy-variant.svg")
+  weather-icon-exceptional: url("/hacsfiles/themes/caule-midnight-gospel-theme/exceptional.svg")
 
   # HACS
   hacs-badge-color: var(--primary-color)
