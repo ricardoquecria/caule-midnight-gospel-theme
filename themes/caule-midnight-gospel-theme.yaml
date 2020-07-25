@@ -66,7 +66,7 @@ Caule Midnight Gospel:
   ha-card-border-radius: "10px"
   ha-card-box-shadow: 'inset 0px 0px 0px 0px var(--divider-color)'
   # lovelace-background: 'url("/hacsfiles/themes/caule-midnight-gospel-theme/bg.png") fixed'
-
+ 
   # Main colors
   primary-color: var(--pink) 
   light-primary-color: var(--cyan)
@@ -211,7 +211,7 @@ Caule Midnight Gospel Glass:
   primary-background-color: var(--bg2)
   secondary-background-color: var(--primary-background-color)
   divider-color: var(--bg2)
-  disabled-color: var(--gray)
+  disabled-color: var(--gray) 
 
   # Header colors
   app-header-background-color: 'center / cover no-repeat url("/hacsfiles/themes/caule-midnight-gospel-theme/bg2.jpg") fixed'
