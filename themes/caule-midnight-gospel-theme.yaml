@@ -106,6 +106,8 @@ Caule Midnight Gospel:
   sidebar-text-color: var(--primary-text-color)
   sidebar-selected-icon-color: var(--yellow)
   sidebar-selected-text-color: var(--light)
+  sidebar-background-color:  var(--bg1)
+  sidebar-selected-background-color: var(--purple)
   scrollbar-thumb-color: var(--cyan)
 
   # Icons colors
@@ -152,7 +154,7 @@ Caule Midnight Gospel:
   # Table colors
   table-row-background-color: var(--bg1)
   table-row-alternative-background-color: var(--bg2)
-  card-background-color: var(--bg1)
+  card-background-color: var(--bg2)
   data-table-background-color: var(--primary-background-color)
 
   #Animated icons
@@ -242,6 +244,7 @@ Caule Midnight Gospel Glass:
   sidebar-selected-icon-color: var(--yellow)
   sidebar-selected-text-color: var(--light)
   scrollbar-thumb-color: var(--cyan)
+  sidebar-background-color:  var(--bg1)
 
   # Icons colors
   state-icon-color: var(--disabled-color)
@@ -252,7 +255,7 @@ Caule Midnight Gospel Glass:
   mini-media-player-icon-color: var(--primary-color)
   mini-media-player-accent-color: var(--yellow)
   mini-media-player-progress-height: 8px
-  mini-media-player-button-color: var(--purple)
+  # mini-media-player-button-color: var(--purple)
 
   # Papers slider colors
   paper-slider-knob-color: var(--yellow)
@@ -273,7 +276,7 @@ Caule Midnight Gospel Glass:
 
   # Cards colors
   ha-card-background: 'center / cover no-repeat url("/hacsfiles/themes/caule-midnight-gospel-theme/bg2.jpg") fixed'
-  paper-card-background-color: var(--red)
+  paper-card-background-color: rgba(12,12,12,0.2)
   paper-listbox-background-color: 'center / cover no-repeat url("/hacsfiles/themes/caule-midnight-gospel-theme/bg2.jpg") fixed'
 
   # Toggle button colors
